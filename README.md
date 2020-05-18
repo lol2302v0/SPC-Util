@@ -1,4 +1,4 @@
-# MF (the author of PvZ2-IZM) say: If you do n’t know su, you ’re equivalent to no modification (sure)
+# MF (the author of PvZ2-IZM) say: If you do n’t know SPCUTIL, you ’re equivalent to no modification (sure)
 
 
 # SPC-Util
