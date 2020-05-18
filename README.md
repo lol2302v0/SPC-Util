@@ -1,5 +1,7 @@
+# MF (PvZ2-IZM系列作者之一) 说：不知道SPCUtil的人就相当于没搞过修改（确信）
 # MF (the author of PvZ2-IZM) say: If you do n’t know SPCUTIL, you ’re equivalent to no modification (sure)
-
+# CZ (PvZ2-Shuttle系列作者) 说: SPCUtil是史上最强大最方便的回包工具
+# CZ (the author of PvZ2-Shuttle) say: SPCUtil is the most powerful and most convenient tool for packing rsb file
 
 # SPC-Util
 Professional PvZ Data Modification Tool.
