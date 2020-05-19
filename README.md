@@ -29,5 +29,8 @@ Professional PvZ Data Modification Tool.
 
 捐赠时，可以备注你的名字，我很感谢每位捐赠者。
 
-微信：
+微信(WeiXin)：
+![Image](./donate/zhifubao.png)
+
+支付宝(ZhiFuBao)：
 ![Image](./donate/weixin.png)
