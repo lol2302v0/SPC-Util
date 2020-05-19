@@ -34,3 +34,6 @@ Professional PvZ Data Modification Tool.
 
 支付宝(AliPay)：
 ![Image](./donate/alipay.jpg)
+
+QQ钱包(QQ)：
+![Image](./donate/.png)
