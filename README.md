@@ -20,3 +20,14 @@ Professional PvZ Data Modification Tool.
 2. unpack and pack RES-PACKAGE : PAK & DZ file(in PvZ-1), RSGP(some player call it 'pgsr') & RSB(or OBB in android and RSB.SMF in Chinese version) file(in PvZ-2).
 3. decode PAM Animate file, then view it by SPCUtil-AnimViewer.
 4. other..... many many.
+
+## 捐赠(Donate)
+
+如果你喜欢我的软件，并有能力拿出一点钱，可以捐赠一定的费用，十分感谢。
+
+当然，如果你不进行任何捐赠，你依然可以使用正式版的任何功能，本程序永远是免费、公开的。
+
+捐赠时，可以备注你的名字，我很感谢每位捐赠者。
+
+微信：
+![Image](./donate/weixin.png)
