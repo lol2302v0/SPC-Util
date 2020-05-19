@@ -33,4 +33,4 @@ Professional PvZ Data Modification Tool.
 ![Image](./donate/wechat.png)
 
 支付宝(AliPay)：
-![Image](./donate/alipay.png)
+![Image](./donate/alipay.jpg)
