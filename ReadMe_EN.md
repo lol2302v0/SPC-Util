@@ -11,6 +11,8 @@
 4. drag file at exe, then open it. (like .rton .json .rsbp .rsb .obb .pam or other)
 5. select a option by number, then enter, then, you can see output file.
 
+**Tutorial Video By Tuan Tran : https://m.youtube.com/watch?v=x4cGj2OAEMo&feature=youtu.be **
+
 # What can we do ?
 
 1. encode and decode RTON file
